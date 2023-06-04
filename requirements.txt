@@ -1,0 +1,18 @@
+numpy
+numba
+tensorboardX
+# easydict
+pyyaml
+scikit-image
+tqdm
+pytest
+pyqt5
+open3d
+pynput
+scikit-learn
+filterpy
+matplotlib
+pillow
+opencv-python
+glob2
+llvmlite
